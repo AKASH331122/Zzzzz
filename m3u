@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1, Star Jalsha (Yupp TV)
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1, Stara (Yupp TV)
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+
+#EXTINF:-1, Jalsha (Yupp TV)
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+
+#EXTINF:-1, Ra (Yupp TV)
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1, Jalsheea (Yupp TV)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1, Jalewwsha (Yupp TV)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1, Jalawasaewwsha (Yupp TV)
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
